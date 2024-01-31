@@ -14,7 +14,8 @@ Supervised learning and Unsupervised learning.
 
 Unsupervised Learning :- Unsupervised learning allows us to approach problems 	with little or no idea what our results should look like. We can derive 	structure from data where we don't necessarily know the effect of the 	variables. We can derive this structure by clustering the data based on 	relationships among the variables in the data. With unsupervised learning 	there is no feedback based on the prediction results.
 # How it works ?
-COLLECTING DATA: FIRST STEP WAS TO COLLECT DATA WE COLLECTED DATA FROM DIFFERENT SOURCES & MERGED THEM TOGETHER TO FORM OUR TRAINING DATA SET.
+COLLECTING DATA:
+FIRST STEP WAS TO COLLECT DATA WE COLLECTED DATA FROM DIFFERENT SOURCES & MERGED THEM TOGETHER TO FORM OUR TRAINING DATA SET.
 THEN WE TRAINED THE MODEL USING MACHINE LEARNIG ALGORITHM WHICH IN THIS CASE IS MULTIPLE LINEAR REGRESSION.
 BASED ON THE GENERATED GRAPHS WE PREDICT THE COST OF THE HOUSE
 # THANK YOU!
